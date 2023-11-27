@@ -1,0 +1,12 @@
+
+
+.myBTNA{
+    color: rgb(0, 60, 255);
+    font-size: 20px;
+}
+
+#stopbutton{
+    width: 200px;
+    font-size: 30px;
+    color: firebrick;
+}
